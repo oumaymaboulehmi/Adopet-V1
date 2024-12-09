@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096854380767",
+    "project_id": "adopet-45bf0",
+    "storage_bucket": "adopet-45bf0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096854380767:android:c9812365ed23091cd8c96a",
+        "android_client_info": {
+          "package_name": "com.application.flutter_rendu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8ngpS_91sdlWrqFCvb9GOIvmg3lUaPyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
